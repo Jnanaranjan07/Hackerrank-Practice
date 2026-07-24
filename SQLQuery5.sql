@@ -1,0 +1,2 @@
+Select first_name , last_name from patients
+where weight between '100' and '120'
